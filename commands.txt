@@ -1,0 +1,3 @@
+1.  npm init -y   //    initialize the folder to npm project
+2.  npm i express   //  add express
+3.  npm i babel-cli babel-preset-env babel-preset-stage-0    //  add babel for transpiling ES6 to ES5
